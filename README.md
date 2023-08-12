@@ -1,4 +1,4 @@
-# Hierarhial_Clustering
+# Hierarchical_Clustering
 To classify customers depending upon annual income and spending score.
 for this,first import the libraries and pandas 
 then import dataset
